@@ -1,3 +1,5 @@
+# WebScienceProj
+
 The `twitterScript.py` file contains the entire code of the project.
 
 Each question's code is contained in a separate cell.
